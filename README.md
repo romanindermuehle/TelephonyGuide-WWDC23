@@ -1,4 +1,4 @@
-# TelephonyGuide-WWDC23
+# [Accepted] WWDC23 TelephonyGuide
 ![IntroductionLight](https://user-images.githubusercontent.com/127976131/234668091-6050fe15-1d2a-4a0d-8a64-046d6fb54b5d.jpg)
 ## Story
 In this app, you can learn the essentials about telephony. Back these days, when I started to learn the SIP protocol, I had wished that there was an app like this already available. But unfortunately, there was nothing comparable. Although, you can’t get enough information on the internet. But there, it is hard to find a course that is such interactive and teaches you the essentials of telephony within 3 minutes. Augmented Reality as a teaching form is very seldom. I know sometimes it can be tedious reading long web articles where it is not always easy to understand. Occasionally, you need to see something that you can understand how it works. 
