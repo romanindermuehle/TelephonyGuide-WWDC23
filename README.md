@@ -10,11 +10,6 @@ That was my motivation to build this learn app.
 - Test your Knowledge after every lesson 
 - Build in SwiftUI 
 
-## What happens next
-My goal is to develop this app further. Maybe with a small Chatbot feature. Where you can ask questions about the content in the lessons what you haven’t yet fully understood.  
-
-To participate in the apple swift student challenge, I've built this app especially for the iPad in mind. But in the future versions, I will focus as well on optimising the app for the iPhone. 
-
 ## Installation
 When you're interested in my app, you can clone this repository. Thereafter, you can either run it on your iPad or Mac. But the AR experience in camera mode isn't working through the Swift Playgrounds app on the iPad. Only in object mode. Instead, you need to run it on the Mac with Xcode and then installing on the iPad.
 
